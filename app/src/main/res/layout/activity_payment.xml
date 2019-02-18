@@ -104,7 +104,7 @@
         android:layout_height="wrap_content"
         android:autofillHints=""
         android:hint="@string/credit_card_number"
-        android:inputType=""
+        android:inputType="phone"
         android:textAppearance="@style/TextAppearance.AppCompat.Title"
         tools:targetApi="o" />
 
