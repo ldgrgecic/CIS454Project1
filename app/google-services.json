@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "370618857699",
-    "firebase_url": "https://cis454project1.firebaseio.com",
-    "project_id": "cis454project1",
-    "storage_bucket": "cis454project1.appspot.com"
+    "project_number": "736285912427",
+    "firebase_url": "https://cis454project1-cf1c7.firebaseio.com",
+    "project_id": "cis454project1-cf1c7",
+    "storage_bucket": "cis454project1-cf1c7.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:370618857699:android:ce673ea8376f9d33",
+        "mobilesdk_app_id": "1:736285912427:android:ce673ea8376f9d33",
         "android_client_info": {
           "package_name": "com.example.cis454project1"
         }
       },
       "oauth_client": [
         {
-          "client_id": "370618857699-9a5u1tt0572ihlk11befl6lonoes3vbs.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.cis454project1",
-            "certificate_hash": "96d63e23bba3766f8b5f2c0b1f335591b24cb4e0"
-          }
-        },
-        {
-          "client_id": "370618857699-f7p68hcgj9j7hqmrmaqejcuh7v8vffmq.apps.googleusercontent.com",
+          "client_id": "736285912427-4kpip9g3l8530uke9kehj1dr173qdqbu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAfBwwwCmZGpRuA-YY3cumfOFKcNROsW_o"
+          "current_key": "AIzaSyD1Pt2xaJBwTNhHwPOvtvnc09XuMLP-YTk"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "370618857699-f7p68hcgj9j7hqmrmaqejcuh7v8vffmq.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2

@@ -63,4 +63,9 @@
         android:onClick="onTouch"
         android:text="@string/confirm_listing"
         tools:text="Confirm" />
+
+    <TextView
+        android:id="@+id/testset"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
 </LinearLayout>

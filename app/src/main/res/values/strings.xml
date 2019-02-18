@@ -54,4 +54,13 @@
     <string name="isbnsell">ISBN</string>
     <string name="price_xx_xx_format">Price (xx.xx format)</string>
     <string name="confirm_listing">Confirm Listing</string>
+    <string name="textview">TextView</string>
+    <string name="confirm_payment">Confirm Payment</string>
+    <string name="CreditCard">Credit Card @android:string/emptyPhoneNumber</string>
+    <string name="credit_card_number">Credit Card Number</string>
+    <string name="titleform">Title:</string>
+    <string name="authorform">Author:</string>
+    <string name="isbnform">ISBN:</string>
+    <string name="priceform">Price:</string>
+    <string name="titleformmm">Title:</string>
 </resources>
